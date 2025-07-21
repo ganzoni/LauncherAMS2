@@ -1,0 +1,8 @@
+Form1 CTOR
+Début CheckForUpdateAsync
+Local version: v1.1.9
+Form1 CTOR
+PAS de MAJ, continue Launcher
+Form1 CTOR
+Début CheckForUpdateAsync
+Local version: v1.1.9
